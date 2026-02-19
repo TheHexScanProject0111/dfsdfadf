@@ -93,7 +93,7 @@ hexscan/
 
 ```bash
 git clone https://github.com/TheHexScanProject0111/dfsdfadf
-cd dfsdfadf
+cd HexScan
 ```
 
 ### 2. Set Up the BSC Indexer
